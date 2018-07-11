@@ -1,5 +1,5 @@
 from tkinter import*
-from tkinter import ttk
+
 import random
 import time
 
@@ -64,7 +64,7 @@ def Ref():
 	CostofFries=CoF * 0.65
 	CostofDrinks=CoD * 1.00
 	CostofFilet=CoFilet *2.99
-	sample = "Rs"
+	sample = "Rs. "
 	CostofChicken_Burger=CoChicBurger * 2.89
 	CostofCheese_Burger=CoCheese_Meal*2.69
 
